@@ -13,6 +13,7 @@ RawEndpoints is a simple library for REST API development using .NET's Minimal A
 
 ## Roadmap
 
+- [ ] **Examples**: Provide example projects.
 - [ ] **Validation**: Integrate validations within the source generator.
 - [ ] **Request Response OpenApi**: Enable automatic OpenAPI with request and response types.
 - [ ] **Result OpenApi**: Analyze potenrial results and add them to OpenAPI specifications.
