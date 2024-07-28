@@ -12,7 +12,7 @@
 	  <GenerateRepositoryUrlAttribute>true</GenerateRepositoryUrlAttribute>
 	  <PackBuildOutput>true</PackBuildOutput>
 	  <PackageId>RawEndpoints</PackageId>
-	  <RepositoryUrl>https://github.com/your-repo-url</RepositoryUrl>
+	  <RepositoryUrl>https://github.com/idan-h/RawEndpoints</RepositoryUrl>
 	  <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
