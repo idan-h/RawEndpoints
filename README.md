@@ -7,9 +7,9 @@ RawEndpoints is a simple library for REST API development using .NET's Minimal A
 ## Design & Approach
 
 - **Minimal API-Based**: Directly utilizes .NET's Minimal API, not a wrapper around it.
-- **Source Generators**: Automatically generate minimal api boilerplate code.
-- **Non-Opinionated**: Use it raw, partly, or fully. You decide.
+- **Source Generators**: Automatically generates minimal api boilerplate code.
 - **Focused and Clean**: Aims to be minimalistic and stable.
+- **Non-Opinionated**: Use it raw, partly, or fully. You decide.
 
 ## Roadmap
 
@@ -23,7 +23,7 @@ RawEndpoints is a simple library for REST API development using .NET's Minimal A
 ## Feature Requests
 
 Feature requests are appreciated :)  
-Keep in mind that the library will always stay simple and unopinionated.
+Keep in mind that the library will always stay simple and non-opinionated.
 
 ## License
 
