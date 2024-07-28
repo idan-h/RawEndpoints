@@ -1,0 +1,5 @@
+[*.{csproj}]
+charset = utf-8-bom
+indent_style = space
+indent_size = 2
+tab_width = 2

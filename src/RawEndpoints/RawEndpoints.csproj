@@ -4,16 +4,17 @@
     <TargetFramework>netstandard2.0</TargetFramework>
 	<EnforceExtendedAnalyzerRules>true</EnforceExtendedAnalyzerRules>
 
-	  <Version>0.0.1</Version>
-	  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-	  <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
-	  <PublishRepositoryUrl>true</PublishRepositoryUrl>
-	  <GenerateRepositoryUrlAttribute>true</GenerateRepositoryUrlAttribute>
-	  <PackBuildOutput>true</PackBuildOutput>
-	  <PackageId>RawEndpoints</PackageId>
-	  <RepositoryUrl>https://github.com/idan-h/RawEndpoints</RepositoryUrl>
-	  <PackageReadmeFile>README.md</PackageReadmeFile>
+	<Version>0.0.1</Version>
+	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<PublishRepositoryUrl>true</PublishRepositoryUrl>
+	<GenerateRepositoryUrlAttribute>true</GenerateRepositoryUrlAttribute>
+	<PackBuildOutput>true</PackBuildOutput>
+	<PackageId>RawEndpoints</PackageId>
+	<RepositoryUrl>https://github.com/idan-h/RawEndpoints</RepositoryUrl>
+	<PackageReadmeFile>README.md</PackageReadmeFile>
+	<Description>A simple REST API library using .NET 6+, based on Minimal API.</Description>
   </PropertyGroup>
 
 	<ItemGroup>
