@@ -22,7 +22,7 @@ RawEndpoints is a simple library for REST API development using .NET's Minimal A
 ## Feature Requests
 
 Feature requests are appreciated :)  
-Keep in mind that maintaining the library's goals of minimalism, stability, and non-opinionated design is the top priority.
+Keep in mind that the library will always stay simple and unopinionated.
 
 ## License
 
